@@ -1,0 +1,20 @@
+body {
+  background-image: url( 'record.png' );
+  background-repeat: repeat-x14;
+  background-size: 5 px, auto;
+  margin: 0px;
+}
+
+header{
+  background-color: DarkOliveGreen;
+  color: GhostWhite;
+  text-align: center;
+  letter-spacing: 8px;
+}
+
+main{
+  background-color: LightGray;
+  padding: 7px;
+  text-align: center;
+  padding: 1em;
+}
